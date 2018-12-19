@@ -1,6 +1,6 @@
 # raccoon
 
-Remark: all functionality implemented in raccoon has been moved to [progenomics](github.com/SWittouck/progenomics) and will be maintained there. 
+Remark: all functionality implemented in raccoon has been moved to [progenomics](https://github.com/SWittouck/progenomics) and will be maintained there. 
 
 Rapid bActerial Cross-species COmparative geNOmics
 
