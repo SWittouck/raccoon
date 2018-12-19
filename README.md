@@ -1,5 +1,7 @@
 # raccoon
 
+Remark: all functionality implemented in raccoon has been moved to [progenomics](github.com/SWittouck/progenomics) and will be maintained there. 
+
 Rapid bActerial Cross-species COmparative geNOmics
 
 * Rapid: all tasks should be feasible to run overnight on a modern desktop computer on thousands of bacterial genomes. 
